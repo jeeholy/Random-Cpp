@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-//waitng
 main()
 {
 	int n, i, j;
