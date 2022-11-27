@@ -18,7 +18,7 @@ int main()
     		a[j] = a[i];
   	}
   	i = 0;
-  	for( i;i<5; i++){
+  	for(i;i<5; i++){
     		printf("%d\n",a[i]);
   	}
 	return 0;
